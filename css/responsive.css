@@ -1,0 +1,244 @@
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+.banner{
+  height:36vh;
+}
+.footer-section{
+  height:42vh;
+}
+.book-table{
+  height:42vh;
+}
+
+.left{
+  height:25vh;
+}
+
+
+
+
+  /* CSS */
+  
+}
+
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 540px) {
+  
+
+.footer-section{
+  height:42vh;
+}
+
+.footer-foot{
+  justify-content: space-between;
+} 
+
+
+.book-table{
+  height:28vh;
+}
+.banner{
+  height:16vh;
+}
+
+.banner h1{
+  font-size:35px;
+}
+.leftdes h1{
+  font-size:35px; 
+}
+.up  p{
+  margin:auto;
+  width:93%;
+}
+
+.banner h1{
+  font-size:25px;
+}
+
+.banner h2{
+  font-size:20px;
+}
+
+.banner p{
+padding: 4px 7px;
+    font-size: 6px;
+  
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+img.img-fluid{
+  margin-top:10px;
+  width:40%;
+}
+
+.contact-menu img{
+  
+}
+
+.contact-menu{
+  margin-bottom: 10px;
+}
+
+.contact-menu span {
+
+  font-size:6px;
+  margin-left:4px;
+}
+
+.menu-list ul li a {
+  font-size: 6px;
+}
+
+.header{
+
+height:26vh;
+
+}
+
+.left {
+    
+  height:16vh;
+  text-align:center;
+
+}
+.img-des h2{
+  text-align:left;
+}
+
+.img-des h2 {
+  font-size:9px;
+}
+
+.img-des h1{
+  font-size:12px;
+}
+
+.image-top h2{
+
+
+font-size:5px;
+
+}
+
+.right h1{
+  margin-bottom: 0.1rem;
+}
+.image-top{
+  text-align: center;
+}
+
+.image-top h1{
+font-size:8px;
+}
+
+
+
+.image-bottom {
+text-align:center;
+}
+.image-bottom h2{
+font-size: 6px;
+
+}
+
+.image-bottom h1{
+
+font-size:8px;
+}
+
+.button-tag{
+  text-align:center;
+}
+
+.button{
+  
+    width: 98px;
+    height: 38px;
+    border: none;
+    text-align:center;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+    font-size: 11px;
+    cursor: pointer;
+
+}
+
+.up h1{
+font-size:14px; 
+
+}
+
+.up p{
+  font-size: 12px;
+}
+
+
+
+.img-des {
+    text-transform: uppercase;
+    position: absolute;
+    top: 30px;
+   left: 117px;
+}
+
+.img-des h2{
+text-align: center;
+
+}
+
+
+.img2-des {
+    position: absolute;
+    top: 20px;
+    left: 126px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400 letter-spacing:1px;
+}
+
+
+
+
+
+.img3-des {
+    position: absolute;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 300px;
+    top: 20px;
+    left: 123px;
+    letter-spacing: 1px;
+
+}
+
+
+
+
+
+
+
+
+
+
+  /* CSS */
+
+  
+}
